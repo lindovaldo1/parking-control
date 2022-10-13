@@ -15,7 +15,7 @@ public class ParkingControlApplication {
 
 	@GetMapping("/")
 	public String index(){
-		return "Hello Word!";
+		return "Hello Word";
 	}
 
 }
